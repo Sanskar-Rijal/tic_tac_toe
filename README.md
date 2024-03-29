@@ -1,4 +1,3 @@
 # tic_tac_toe
-This was the first ever project that i had submitted to my college during 1st semister using c programming
-I used the normal symbols that were available to make tic tac toe board.I made various functions and called it into main function so that the code will be simple to understand.
-I have given comments at beggning of each function so that some one who is trying to figure out the code will understand without any delay.
+This was the first ever project that I had submitted to my college during the 1st semester. I used the normal symbols available to make a tic-tac-toe board. I created various functions and called them in the main function so that the code would be simple to understand. I provided comments at the beginning of each function so that someone trying to figure out the code could understand it without delay.
+
