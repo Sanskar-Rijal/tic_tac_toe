@@ -1,3 +1,19 @@
-# tic_tac_toe
-This was the first ever project that I had submitted to my college during the 1st semester. I used the normal symbols available to make a tic-tac-toe board. I created various functions and called them in the main function so that the code would be simple to understand. I provided comments at the beginning of each function so that someone trying to figure out the code could understand it without delay.
+# Tic Tac Toe in C
 
+This is a simple command-line implementation of the classic Tic Tac Toe game in C programming language.
+
+## Features
+
+- **Player vs Player:** Play against a friend on the same computer.
+- **Simple Interface:** Easy-to-use command-line interface.
+- **Basic Rules:** Follows the traditional rules of Tic Tac Toe.
+
+## How to Play
+
+1. **Compile:** Compile the `tictactoe.c` file using a C compiler.
+   ```
+   gcc tictactoe.c
+   ```
+   ```bash
+   ./a.exe for windows and ./a.out for mac
+   ```
